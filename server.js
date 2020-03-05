@@ -21,7 +21,8 @@ app.set("layout", "layouts/layout");
 app.use(expressLayouts);
 app.use(methodOverride("_method"));
 app.use(express.static("public"));
-app.use(bodyParser.urlencoded({limit: "10mb", extend: false}));
+app.use(express.urlencoded({limit: "10mb", extended: false}));
+app.use(express.json());
 
 app.use("/", indexRouter);
 app.use("/authors", authorRouter);

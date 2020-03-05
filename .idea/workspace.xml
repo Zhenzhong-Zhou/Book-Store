@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef6bedd4-2f21-41b8-a3e0-c09dcabfa7d7" name="Default Changelist" comment="" />
+    <list default="true" id="ef6bedd4-2f21-41b8-a3e0-c09dcabfa7d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascript/fileUpload.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascript/fileUpload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/books.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/books.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/books/_form_fields.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/books/_form_fields.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/layout.ejs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WpMwbTzfqwFD2v5BM16BPqfuOl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,6 +37,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.6.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/models" />
@@ -108,7 +121,25 @@
       <workItem from="1580166646870" duration="1336000" />
       <workItem from="1580186451486" duration="6544000" />
       <workItem from="1580322886845" duration="18272000" />
-      <workItem from="1580427595861" duration="13521000" />
+      <workItem from="1580427595861" duration="17655000" />
+      <workItem from="1580616119169" duration="74000" />
+      <workItem from="1580619453793" duration="77000" />
+      <workItem from="1580619677055" duration="3057000" />
+      <workItem from="1580704732247" duration="37000" />
+      <workItem from="1580768515224" duration="362000" />
+      <workItem from="1580829246055" duration="606000" />
+      <workItem from="1580835817282" duration="2535000" />
+      <workItem from="1580843037950" duration="1392000" />
+      <workItem from="1580853359179" duration="12278000" />
+      <workItem from="1580918827566" duration="6319000" />
+      <workItem from="1581011180591" duration="72000" />
+      <workItem from="1581178302110" duration="792000" />
+      <workItem from="1581204747158" duration="994000" />
+      <workItem from="1581209015068" duration="890000" />
+      <workItem from="1581369702428" duration="77000" />
+      <workItem from="1583336308779" duration="198000" />
+      <workItem from="1583352387137" duration="706000" />
+      <workItem from="1583434827156" duration="3177000" />
     </task>
     <servers />
   </component>
@@ -196,6 +227,10 @@
       <screen x="0" y="0" width="3008" height="1692" />
     </state>
     <state x="58" y="245" width="1706" height="1247" key="SettingsEditor/-1920.0.1920.1080/0.0.3008.1692@0.0.3008.1692" timestamp="1580071377194" />
+    <state x="917" y="397" key="run.anything.popup" timestamp="1583437623445">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state x="917" y="397" key="run.anything.popup/-1920.0.1920.1080/0.0.3008.1692@0.0.3008.1692" timestamp="1583437623445" />
     <state x="216" y="0" width="1173" height="1972" key="search.everywhere.popup" timestamp="1579879157357">
       <screen x="0" y="0" width="3008" height="1692" />
     </state>
