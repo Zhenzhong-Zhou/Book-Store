@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ef6bedd4-2f21-41b8-a3e0-c09dcabfa7d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascript/fileUpload.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascript/fileUpload.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/books.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/books.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/books/_form_fields.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/books/_form_fields.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/layouts/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/layout.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +29,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -39,7 +36,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="13.6.0" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.17.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.4" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/models" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -51,10 +49,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/styles" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/models" />
       <recent name="$PROJECT_DIR$/public" />
@@ -62,12 +64,9 @@
       <recent name="$PROJECT_DIR$/public/font" />
       <recent name="$PROJECT_DIR$/views/books" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/styles" />
-    </key>
   </component>
   <component name="RunManager" selected="Node.js.product_seeder.js">
-    <configuration name="layout.ejs" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Book_Store/views/layouts/layout.ejs" useFirstLineBreakpoints="true" useBuiltInWebServerPort="true">
+    <configuration name="layout.ejs" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Book_Store/views/layouts/layout.ejs" useFirstLineBreakpoints="true" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="product_seeder.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/seed/product_seeder.js" working-dir="$PROJECT_DIR$/seed">
@@ -101,6 +100,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -139,12 +139,15 @@
       <workItem from="1581369702428" duration="77000" />
       <workItem from="1583336308779" duration="198000" />
       <workItem from="1583352387137" duration="706000" />
-      <workItem from="1583434827156" duration="3177000" />
+      <workItem from="1583434827156" duration="3665000" />
+      <workItem from="1583505552252" duration="491000" />
+      <workItem from="1583951816894" duration="1846000" />
+      <workItem from="1629864207347" duration="4078000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="155" y="346" key="#Web_Browsers" timestamp="1580070892151">
@@ -223,10 +226,11 @@
       <screen x="0" y="0" width="3008" height="1692" />
     </state>
     <state width="1499" height="577" key="GridCell.Tab.3.right/-1920.0.1920.1080/0.0.3008.1692@0.0.3008.1692" timestamp="1580070799863" />
-    <state x="58" y="245" width="1706" height="1247" key="SettingsEditor" timestamp="1580071377194">
-      <screen x="0" y="0" width="3008" height="1692" />
+    <state x="32" y="0" width="1575" height="1050" key="SettingsEditor" timestamp="1583952556507">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="58" y="245" width="1706" height="1247" key="SettingsEditor/-1920.0.1920.1080/0.0.3008.1692@0.0.3008.1692" timestamp="1580071377194" />
+    <state x="32" y="0" width="1575" height="1050" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1583952556507" />
     <state x="917" y="397" key="run.anything.popup" timestamp="1583437623445">
       <screen x="0" y="0" width="3008" height="1692" />
     </state>
