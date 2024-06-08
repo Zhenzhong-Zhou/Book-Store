@@ -10,7 +10,7 @@
   "author": "Zhenzhong Zhou",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.0.1",
+    "ejs": "^3.1.10",
     "express": "^4.19.2",
     "express-ejs-layouts": "^2.5.0",
     "method-override": "^3.0.0",
